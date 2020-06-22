@@ -1,11 +1,16 @@
 <template>
 <body>
   <div>
-    <nuxt-link to="/about" >Food-Menu </nuxt-link>
-    <h1>LEONARDO DA VINCI</h1>
-    <h1>FOOD IS ART</h1>
-    <img src="./Leonardo.jpg" alt="">
+    <h1>LEONARDO DA VINCI RESTAURANTE</h1>
+    <h1><nuxt-link to="./about">Menü</nuxt-link></h1>
+    <h1><nuxt-link to="./contact">Kontaktseite</nuxt-link></h1>
+    <img src="./leonardo.jpg" alt=""> 
+    
+
+    
+    
   </div>
+ 
 </body>
 </template>
 
@@ -14,16 +19,18 @@ export default {
   name:"index" 
 }
 </script>
-<style>
+<style scoped>
   body {
     background-color: burlywood;
     text-align: center;
   }
   h1 {
     font-family: initial;
-    border: aqua 25px;
-    padding-block: aqua 25px;
-    margin-block: aqua 24px;
+    border: 15px solid brown;
+    background-color: brown;
+    margin-block: 15px;
   }
-  
+  a {
+    color: black;
+  }
 </style>
