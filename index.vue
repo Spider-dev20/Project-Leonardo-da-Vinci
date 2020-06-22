@@ -30,7 +30,5 @@ export default {
     background-color: brown;
     margin-block: 15px;
   }
-  a {
-    color: black;
-  }
+
 </style>

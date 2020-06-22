@@ -6,15 +6,19 @@
     <h1><nuxt-link to="./">Startseite</nuxt-link></h1>
     <h2>Reservierung unter:</h2>
     <h3>0157353057</h3>
+    <br>
     <hr>
     <h2>Adresse:</h2>
-    <h3>Casa de Humbre 25</h3>
+    <h3>Calle de Humbre 25</h3>
+    <br>
     <hr>
     <h2>Öffnungszeiten</h2>
     <h3>Täglich von 11:00 bis 23:00 Uhr geöffnet</h3>
+    <br>
     <hr>
     <h2>Email:</h2>
     <h3>veni.vici@gmx.de</h3>
+    <br>
     <hr>
     <br>
     <br>

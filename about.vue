@@ -4,13 +4,13 @@
     <h1><nuxt-link to="/">Startseite </nuxt-link></h1>
     <h1><nuxt-link to="./contact">Kontaktseite</nuxt-link></h1>
     <img src="./pizza.jpg" alt="Pizza Margherita" >
-    <h2>Pizza Magherita</h2>
+    <h2>Pizza Magherita 15 Euro</h2>
     <hr>
     <img src="./pasta.jpg" alt="Italien Pasta">
-    <h2>Pasta de Italia</h2> 
+    <h2>Pasta de Italia 12 Euro</h2> 
     <hr>
     <img src="./crep.jpg" alt="Crepe">
-    <h2>Crepe</h2>
+    <h2>Crepe 9 Euro</h2>
 
     
     </div>
